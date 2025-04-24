@@ -1,6 +1,7 @@
 const { Client, LocalAuth, MessageMedia } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const fs = require('fs');
+const fetch = require('node-fetch');
 
 // DATA
 let listData = [], pricelist = {}, adminList = [], payCaption = '', commandList = [];
