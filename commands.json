@@ -1,0 +1,18 @@
+[
+  ".list — Menampilkan isi list",
+  ".addlist — Menambahkan item ke list",
+  ".dellist — Menghapus item dari list",
+  ".resetlist — Mengosongkan semua item di list",
+  ".addprice — Menambahkan atau update pricelist",
+  ".delprice — Menghapus pricelist",
+  "pay — Menampilkan info pembayaran",
+  ".setpay — Set gambar dan caption pembayaran",
+  ".stiker — Membuat stiker dari gambar",
+  ".cmd — Melihat semua command (admin only)",
+  ".addcmd — Menambahkan command",
+  ".delcmd - untuk menghapus list .cmd",
+  ".mlreg - Melihat ID ML User",
+  ".admin add - tambah admin",
+  ".admin del - hapus admin",
+  ".h - Hide Tag Member"
+]
